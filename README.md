@@ -1,4 +1,5 @@
 Olá! Sou o Diego Faria
+
 💻 Desenvolvedor em Formação | Apaixonado por Tecnologia e Ciência de Dados
 
 Sou um entusiasta da programação e busco sempre aprender novas tecnologias e frameworks. Tenho interesse em desenvolvimento mobile, backend, automação e inteligência artificial.
