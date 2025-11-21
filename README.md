@@ -6,59 +6,27 @@ Sou um entusiasta da programação e busco sempre aprender novas tecnologias e f
 🚀 Tecnologias e Ferramentas
 🌐 Linguagens & Frameworks
 
-Dart / Flutter – Desenvolvimento mobile
-
-Python – Automação, IA/ML, análise de dados
-
-C++ – Sistemas, algoritmos e desempenho
-
-JavaScript / TypeScript – Web e aplicações dinâmicas
+Dart / Flutter – Desenvolvimento mobile Python – Automação, IA/ML, análise de dados C++ – Sistemas, algoritmos e desempenho JavaScript / TypeScript – Web e aplicações dinâmicas
 
 🔥 Backend & Cloud
 
-Firebase – Autenticação, Firestore, Storage
-
-Flask / FastAPI – APIs em Python
+Firebase e AWS – Autenticação, Firestore, Storage aa
 
 🛠️ Outros Interesses
 
-IA e Machine Learning
-
-Metaheurísticas e otimização
-
-Sistemas concorrentes
-
-Visão computacional
+IA e Machine Learning Metaheurísticas e otimização Sistemas concorrentes Visão computacional
 
 📚 Atualmente aprendendo
 
-Flutter avançado
-
-Firebase e integrações
-
-Estruturas de dados e algoritmos
-
-Práticas de DevOps e CI/CD
-
-🤝 Buscando colaborar em
-
-Projetos open-source com Flutter
-
-Aplicativos mobile
-
-APIs e integrações backend
-
-Projetos de IA e otimização
+Flutter avançado,Firebase e integrações,Práticas de DevOps e CI/CD
 
 📫 Como me encontrar
 
-✉️ Email: seu-email-aqui
+✉️ Email: diegodefaria02@gmail.com  
 
-💼 LinkedIn: adicione o link aqui
+💼 LinkedIn: https://www.linkedin.com/in/diegofariafuel/
 
-🐦 Twitter/X: opcional
-
-🌐 Portfólio: se tiver, coloque aqui
+🌐 Portfólio: https://portifolio-phi-ten-94.vercel.app/
 
 📊 Status no GitHub
 
