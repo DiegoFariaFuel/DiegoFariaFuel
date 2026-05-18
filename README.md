@@ -49,3 +49,4 @@ Apaixonado por criar aplicações mobile de alta performance, sistemas inteligen
 ![Diego's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=DiegoFariaFuel&show_icons=true&theme=dracula&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DiegoFariaFuel&layout=compact&theme=dracula&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=DiegoFariaFuel&theme=dracula&hide_border=true)
