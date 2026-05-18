@@ -1,36 +1,51 @@
-Olá! Sou o Diego Faria
+# Olá! Sou Diego Faria 👋
 
-💻 Desenvolvedor Full Stack | Apaixonado por Tecnologia e Ciência de Dados
+💻 **Desenvolvedor Full Stack** | **Flutter & Firebase** | **Python para IA & Dados**
 
-Sou um entusiasta da programação e busco sempre aprender novas tecnologias e frameworks. Tenho interesse em desenvolvimento mobile, backend, automação e inteligência artificial.
+Apaixonado por criar aplicações mobile de alta performance, sistemas inteligentes e soluções escaláveis. Sempre em busca de novos desafios e aprendizados.
 
-🌐 Linguagens & Frameworks
+---
 
-Dart / Flutter – Desenvolvimento mobile 
-Python – Automação, IA/ML, análise de dados 
-C++ – Sistemas, algoritmos e desempenho 
-JavaScript / TypeScript – Web e aplicações dinâmicas
+### 🌐 Tecnologias & Ferramentas
 
-🔥 Backend & Cloud
+**Mobile**  
+• **Dart** / **Flutter** – Desenvolvimento cross-platform de alto desempenho
 
-Firebase e AWS – Autenticação, Firestore, Storage aa
+**Backend & Cloud**  
+• **Firebase** (Authentication, Firestore, Storage, Cloud Functions)  
+• **AWS** (EC2, S3, Lambda)
 
-🛠️ Outros Interesses
+**Linguagens**  
+• **Python** – Machine Learning, Automação e Análise de Dados  
+• **JavaScript** / **TypeScript** – Web e aplicações dinâmicas  
+• **C++** – Algoritmos, desempenho e sistemas de baixo nível
 
-IA e Machine Learning Metaheurísticas e otimização Sistemas concorrentes Visão computacional
+**Outros Interesses**  
+• Inteligência Artificial & Machine Learning  
+• Metaheurísticas e Otimização  
+• Visão Computacional  
+• Sistemas Concorrentes e Paralelos
 
-📚 Atualmente aprendendo
+---
 
-Flutter avançado,Firebase e integrações,Práticas de DevOps e CI/CD
+### 📚 Atualmente Aprendendo
+- Clean Architecture + Riverpod no Flutter  
+- DevOps e CI/CD  
+- Melhores práticas de escalabilidade com Firebase
 
-📫 Como me encontrar
+---
 
-✉️ Email: diegodefaria02@gmail.com  
+### 📫 Onde me encontrar
 
-💼 LinkedIn: https://www.linkedin.com/in/diegofariafuel/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegofariafuel/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegodefaria02@gmail.com)
 
-🌐 Portfólio: https://portifolio-phi-ten-94.vercel.app/
+🌐 **Portfólio:** [portifolio-phi-ten-94.vercel.app](https://portifolio-phi-ten-94.vercel.app/)
 
-📊 Status no GitHub
+---
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoFariaFuel&show_icons=true&theme=dracula)
+### 📊 GitHub Stats
+
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoFariaFuel&show_icons=true&theme=dracula&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFariaFuel&layout=compact&theme=dracula&hide_border=true)
