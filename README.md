@@ -1,100 +1,39 @@
-# Olá, eu sou Diego Faria! 👋
+# Diego Faria
 
-<h3 align="center">
-  Desenvolvedor Full Stack | Flutter & Firebase | Python, IA & Dados
-</h3>
+**Data & Machine Learning | Python · SQL · NLP/LLM · Software Engineering**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&pause=1000&color=539BF5&center=true&vCenter=true&width=700&lines=Desenvolvimento+Mobile+com+Flutter;Backend+e+Cloud+com+Firebase+e+AWS;Python+para+Intelig%C3%AAncia+Artificial;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais" alt="Apresentação animada" />
-</p>
+## English
 
----
+Computer Science student at PUC Goiás with a software engineering background and a focus on data, applied machine learning, and research-oriented software. I build Python workflows that connect data preparation, model evaluation, and practical interfaces, with attention to reproducibility and clear limitations.
 
-## 👨‍💻 Sobre mim
+### Selected projects
 
-Sou desenvolvedor Full Stack apaixonado por tecnologia, inovação e resolução de problemas.
+- [SciLit — Scientific Literature Assistant](https://github.com/DiegoFariaFuel/scientific-literature-assistant): bilingual scientific-PDF assistant with hybrid multilingual retrieval, local RAG, page-level citations, and retrieval evaluation.
+- [Hyperspectral Antimicrobial Resistance](https://github.com/DiegoFariaFuel/hyperspectral-antimicrobial): research pipeline with spectral 1D and cube-based 3D CNNs and held-out evaluation.
+- [Financial LSTM Forecasting](https://github.com/DiegoFariaFuel/lstm-mt5-research): chronological OHLCV forecasting, cost-aware backtesting, ONNX export, Flask inference, and a read-only MT5 history adapter.
+- [Brazil Macro Pulse](https://github.com/DiegoFariaFuel/brazil-macro-pipeline): public macroeconomic data pipeline, SQLite, SQL analysis, and a Plotly dashboard.
+- [Financial Fractal Analysis](https://github.com/DiegoFariaFuel/fractal): DFA-based Hurst analysis, PCA, rolling K-means, and backtesting.
 
-Tenho interesse no desenvolvimento de aplicações mobile, arquiteturas escaláveis, sistemas inteligentes e soluções baseadas em Inteligência Artificial.
+### Tools
 
-Gosto de explorar novas tecnologias, estudar algoritmos e transformar conceitos complexos em aplicações práticas.
+Python · SQL · PyTorch · Sentence Transformers · FastAPI · Flask · ONNX · SQLite · Plotly · Git
 
-- 📱 Desenvolvimento mobile com Flutter e Dart.
-- ☁️ Backend e infraestrutura com Firebase e AWS.
-- 🧠 Inteligência Artificial e Machine Learning com Python.
-- 📊 Análise de dados, automação e otimização.
-- 🚀 Arquitetura de software e sistemas escaláveis.
+## Português
 
----
+Estudante de Ciência da Computação na PUC Goiás, com experiência em desenvolvimento de software e foco em dados, aprendizado de máquina aplicado e ferramentas para pesquisa. Desenvolvo pipelines em Python que conectam preparação de dados, avaliação de modelos e interfaces práticas, com atenção à reprodutibilidade e à comunicação clara de limitações.
 
-## 🛠️ Tecnologias e ferramentas
+### Projetos em destaque
 
-### 📱 Mobile Development
+- [SciLit — Assistente de Literatura Científica](https://github.com/DiegoFariaFuel/scientific-literature-assistant): assistente bilíngue para PDFs científicos, com busca híbrida multilíngue, RAG local, citações por página e avaliação da recuperação.
+- [Resistência Antimicrobiana Hiperespectral](https://github.com/DiegoFariaFuel/hyperspectral-antimicrobial): pipeline de pesquisa com CNNs espectrais 1D, CNN 3D para cubos e avaliação em conjunto separado.
+- [Previsão Financeira com LSTM](https://github.com/DiegoFariaFuel/lstm-mt5-research): previsão cronológica de OHLCV, backtest com custos, exportação ONNX, inferência Flask e adaptador MT5 somente de leitura.
+- [Brazil Macro Pulse](https://github.com/DiegoFariaFuel/brazil-macro-pipeline): pipeline de dados macroeconômicos públicos, SQLite, análise SQL e painel em Plotly.
+- [Análise Fractal Financeira](https://github.com/DiegoFariaFuel/fractal): análise do expoente de Hurst por DFA, PCA, K-means em janelas móveis e backtesting.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Ferramentas
 
-### ☁️ Backend & Cloud
+Python · SQL · PyTorch · Sentence Transformers · FastAPI · Flask · ONNX · SQLite · Plotly · Git
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## Contact
 
-### 💻 Linguagens de programação
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-## 🧠 Áreas de interesse
-
-- Inteligência Artificial e Machine Learning.
-- RAG (Retrieval-Augmented Generation) e agentes de IA.
-- Visão Computacional.
-- Metaheurísticas e otimização.
-- Sistemas concorrentes e paralelos.
-- Automação inteligente e análise de dados.
-
----
-
-## 📚 Atualmente aprendendo
-
-- Clean Architecture e Riverpod no Flutter.
-- DevOps e CI/CD.
-- Escalabilidade e boas práticas com Firebase.
-- Inteligência Artificial aplicada ao desenvolvimento de software.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=DiegoFariaFuel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://streak-stats.demolab.com?user=DiegoFariaFuel&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DiegoFariaFuel&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-</p>
-
----
-
-## 📫 Vamos nos conectar?
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/diegofariafuel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:diegodefaria02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-  <a href="https://portifolio-phi-ten-94.vercel.app/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
-  </a>
-</p>
-
-<p align="center">
-  <i>"A tecnologia transforma ideias em possibilidades."</i>
-</p>
+[LinkedIn](https://www.linkedin.com/in/diegofariafuel/) · [Portfolio](https://portifolio-phi-ten-94.vercel.app/) · [Email](mailto:diegodefaria02@gmail.com)
