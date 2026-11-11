@@ -1,53 +1,108 @@
-# Olá! Sou Diego Faria 👋
+# Olá, eu sou Diego Faria! 👋
 
-💻 **Desenvolvedor Full Stack** | **Flutter & Firebase** | **Python para IA & Dados**
+<h3 align="center">
+  Desenvolvedor Full Stack | Flutter & Firebase | Python, IA & Dados
+</h3>
 
-Apaixonado por criar aplicações mobile de alta performance, sistemas inteligentes e soluções escaláveis. Sempre em busca de novos desafios e aprendizados.
-
----
-
-### 🌐 Tecnologias & Ferramentas
-
-**Mobile**  
-• **Dart** / **Flutter** – Desenvolvimento cross-platform de alto desempenho
-
-**Backend & Cloud**  
-• **Firebase** (Authentication, Firestore, Storage, Cloud Functions)  
-• **AWS** (EC2, S3, Lambda)
-
-**Linguagens**  
-• **Python** – Machine Learning, Automação e Análise de Dados  
-• **JavaScript** / **TypeScript** – Web e aplicações dinâmicas  
-• **C++** – Algoritmos, desempenho e sistemas de baixo nível
-
-**Outros Interesses**  
-• Inteligência Artificial & Machine Learning  
-• Metaheurísticas e Otimização  
-• Visão Computacional  
-• Sistemas Concorrentes e Paralelos
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=21&pause=1000&color=539BF5&center=true&vCenter=true&width=700&lines=Desenvolvimento+Mobile+com+Flutter;Backend+e+Cloud+com+Firebase+e+AWS;Python+para+Intelig%C3%AAncia+Artificial;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais" alt="Apresentação animada" />
+</p>
 
 ---
 
-### 📚 Atualmente Aprendendo
-- Clean Architecture + Riverpod no Flutter  
-- DevOps e CI/CD  
-- Melhores práticas de escalabilidade com Firebase
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor Full Stack apaixonado por tecnologia, inovação e resolução de problemas.
+
+Tenho interesse no desenvolvimento de aplicações mobile, arquiteturas escaláveis, sistemas inteligentes e soluções baseadas em Inteligência Artificial.
+
+Gosto de explorar novas tecnologias, estudar algoritmos e transformar conceitos complexos em aplicações práticas.
+
+- 📱 Desenvolvimento mobile com Flutter e Dart.
+- ☁️ Backend e infraestrutura com Firebase e AWS.
+- 🧠 Inteligência Artificial e Machine Learning com Python.
+- 📊 Análise de dados, automação e otimização.
+- 🚀 Arquitetura de software e sistemas escaláveis.
 
 ---
 
-### 📫 Onde me encontrar
+## 🛠️ Tecnologias e ferramentas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegofariafuel/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegodefaria02@gmail.com)
+### 📱 Mobile Development
 
-🌐 **Portfólio:** [portifolio-phi-ten-94.vercel.app](https://portifolio-phi-ten-94.vercel.app/)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### ☁️ Backend & Cloud
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 💻 Linguagens de programação
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Áreas de interesse
 
-![Diego's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=DiegoFariaFuel&show_icons=true&theme=dracula&hide_border=true)
+- Inteligência Artificial e Machine Learning.
+- RAG (Retrieval-Augmented Generation) e agentes de IA.
+- Visão Computacional.
+- Metaheurísticas e otimização.
+- Sistemas concorrentes e paralelos.
+- Automação inteligente e análise de dados.
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DiegoFariaFuel&layout=compact&theme=dracula&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=DiegoFariaFuel&theme=dracula&hide_border=true)
+---
 
+## 📚 Atualmente aprendendo
+
+- Clean Architecture e Riverpod no Flutter.
+- DevOps e CI/CD.
+- Escalabilidade e boas práticas com Firebase.
+- Inteligência Artificial aplicada ao desenvolvimento de software.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=DiegoFariaFuel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://streak-stats.demolab.com?user=DiegoFariaFuel&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DiegoFariaFuel&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+</p>
+
+---
+
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DiegoFariaFuel/DiegoFariaFuel/output/github-snake.svg" alt="Animação da cobrinha percorrendo minhas contribuições" />
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/diegofariafuel/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:diegodefaria02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://portifolio-phi-ten-94.vercel.app/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"A tecnologia transforma ideias em possibilidades."</i>
+</p>
