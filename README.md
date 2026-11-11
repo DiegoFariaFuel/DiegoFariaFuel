@@ -81,16 +81,14 @@ Gosto de explorar novas tecnologias, estudar algoritmos e transformar conceitos 
 
 ---
 
-## 🐍 Jogue com minhas contribuições
+## 🐍 Minha cobrinha de contribuições
 
 <p align="center">
-  <a href="https://kumarmuthu.github.io/snake-graph/?user=DiegoFariaFuel">
-    <img src="https://img.shields.io/badge/JOGAR%20COBRINHA-238636?style=for-the-badge&logo=github&logoColor=white" alt="Abrir jogo da cobrinha com minhas contribuições" />
-  </a>
+  <img src="https://raw.githubusercontent.com/DiegoFariaFuel/DiegoFariaFuel/main/assets/contribution-snake.svg" alt="Animação da cobrinha percorrendo um gráfico no estilo das contribuições do GitHub" width="100%" />
 </p>
 
 <p align="center">
-  Veja a cobrinha percorrendo seu gráfico de contribuições em uma página interativa.
+  <sub>Animação incorporada ao README: aparece diretamente no perfil, sem precisar abrir outra página.</sub>
 </p>
 
 ---
