@@ -4,7 +4,7 @@
 
 ## English
 
-Computer Science student at PUC Goiás with a software engineering background and a focus on data, applied machine learning, and research-oriented software. I build Python workflows that connect data preparation, model evaluation, and practical interfaces, with attention to reproducibility and clear limitations.
+Computer Science graduate from PUC Goiás with a software engineering background and a focus on data, applied machine learning, and research-oriented software. I build Python workflows that connect data preparation, model evaluation, and practical interfaces, with attention to reproducibility and clear limitations.
 
 ### Selected projects
 
@@ -20,7 +20,7 @@ Python · SQL · PyTorch · Sentence Transformers · FastAPI · Flask · ONNX ·
 
 ## Português
 
-Estudante de Ciência da Computação na PUC Goiás, com experiência em desenvolvimento de software e foco em dados, aprendizado de máquina aplicado e ferramentas para pesquisa. Desenvolvo pipelines em Python que conectam preparação de dados, avaliação de modelos e interfaces práticas, com atenção à reprodutibilidade e à comunicação clara de limitações.
+Bacharel em Ciência da Computação pela PUC Goiás, com experiência em desenvolvimento de software e foco em dados, aprendizado de máquina aplicado e ferramentas para pesquisa. Desenvolvo pipelines em Python que conectam preparação de dados, avaliação de modelos e interfaces práticas, com atenção à reprodutibilidade e à comunicação clara de limitações.
 
 ### Projetos em destaque
 
