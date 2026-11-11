@@ -81,14 +81,14 @@ Gosto de explorar novas tecnologias, estudar algoritmos e transformar conceitos 
 
 ---
 
-## 🐍 Minha cobrinha de contribuições
+## 🐍 Cobrinha no estilo do gráfico de contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DiegoFariaFuel/DiegoFariaFuel/main/assets/contribution-snake.svg" alt="Animação da cobrinha percorrendo um gráfico no estilo das contribuições do GitHub" width="100%" />
+  <img src="https://raw.githubusercontent.com/DiegoFariaFuel/DiegoFariaFuel/main/assets/contribution-snake.svg" alt="Animação da cobrinha em um quadro visual inspirado nas contribuições do GitHub" width="100%" />
 </p>
 
 <p align="center">
-  <sub>Animação incorporada ao README: aparece diretamente no perfil, sem precisar abrir outra página.</sub>
+  <sub>Animação incorporada ao README: aparece diretamente no perfil, sem precisar abrir outra página. Por enquanto, o quadro é ilustrativo e não representa a contagem real de commits.</sub>
 </p>
 
 ---
