@@ -1,0 +1,17 @@
+name: Runner diagnostic
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  runner-test:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Confirm hosted runner
+        run: echo "GitHub-hosted runner is working."
