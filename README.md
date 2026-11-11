@@ -81,18 +81,6 @@ Gosto de explorar novas tecnologias, estudar algoritmos e transformar conceitos 
 
 ---
 
-## 🐍 Minhas contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoFariaFuel/DiegoFariaFuel/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoFariaFuel/DiegoFariaFuel/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/DiegoFariaFuel/DiegoFariaFuel/output/github-snake.svg" alt="Cobrinha animada consumindo as contribuições reais do GitHub" width="100%" />
-  </picture>
-</p>
-
----
-
 ## 📫 Vamos nos conectar?
 
 <p align="center">
